@@ -99,6 +99,5 @@ int main() {
         std::cin >> choice;
 
     } while (choice == "yes");
-
-    return 0;
 }
+
